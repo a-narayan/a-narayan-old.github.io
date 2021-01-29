@@ -1,0 +1,36 @@
+<nav class="navbar is-light" role="navigation" aria-label="main navigation">
+  <!-- <div class="container"> -->
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{ site.baseurl }}/">
+      <b class="has-text-darkblue"><i class="fas fa-cubes"></i> DAIS LAB</b>
+    </a>
+
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="true" data-target="navBasic">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navBasic" class="navbar-menu">
+    <div class="navbar-start" itemscope itemtype="http://schema.org/SiteNavigationElement">
+      <a itemprop="url" class="navbar-item" href="{{ site.baseurl }}/">
+        <b>Home</b>
+      </a>
+      {% assign paths = page.url | split:"/" | downcase %}
+      {% for link in site.data.pages %}
+      {% assign linkname = link.name | downcase %}
+        {% if link.url %}
+          <a itemprop="url" target="_blank" class="navbar-item" href="{{ link.url }}">{{ link.name }}&nbsp;<i class="fas fa-external-link-alt"></i></a>
+        {% else %}
+          {% if paths contains linkname %}
+            <a itemprop="url" class="navbar-item is-active has-text-darkblue" href="{{ site.baseurl }}/{{ link.name | downcase }}/"><b>{{ link.name }}</b></a>
+          {% else %}
+            <a itemprop="url" class="navbar-item" href="{{ site.baseurl }}/{{ link.name | downcase }}/"> {{ link.name }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+</nav>

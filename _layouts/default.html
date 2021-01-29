@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | UBC DAIS Lab - Bhushan Gopaluni</title>
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.base_url }}/assets/img/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/dais.css" />
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+
+  <meta name="google-site-verification" content="Uhr-tsoENf7WIxvNZZ6G7PWLp2_kZMrJ5tCOfBbTGXw" />
+
+  {% seo %}
+
+  <script type="application/ld+json">
+  {
+  "@context": "http://schema.org/",
+  "@type": "schema:Person",
+  "name": "Prof. Bhushan Gopaluni",
+  "honorificPrefix": "Prof.",
+  "givenName": "Bhushan",
+  "familyName": "Gopaluni",
+  "telephone": "604-827-5668",
+  "worksFor": {
+     "@type": "CollegeOrUniversity",
+     "name": "University of British Columbia",
+     "url": "https://www.ubc.ca/"
+  },
+  "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "Vancouver",
+     "addressRegion": "BC",
+     "postalCode": "V6T1Z4",
+     "streetAddress": "5000-2332 Main Mall",
+     "addressCountry": "CA"
+  },
+  "image": "https://dais.chbe.ubc.ca/assets/profile/bhushan.jpg",
+  "jobTitle": "Professor",
+  "url": "https://dais.chbe.ubc.ca",
+  "workLocation": {
+     "@type": "Place",
+     "name": "KAISER 5018",
+     "url": "https://dais.chbe.ubc.ca"
+  }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  { 
+   "@context": "https://schema.org",
+   "@type": "Organization",
+   "name": "UBC DAIS Lab",
+   "legalName" : "UBC Data Analytics and Intelligent Systems Lab",
+   "url": "https://dais.chbe.ubc.ca",
+   "logo": "https://dais.chbe.ubc.ca/assets/profile/bhushan.jpg",
+   "foundingDate": "2009",
+   "founders": [
+     {
+     "@type": "Person",
+     "name": "Bhushan Gopaluni"
+     }],
+   "address": {
+     "@type": "PostalAddress",
+     "addressLocality": "Vancouver",
+     "addressRegion": "BC",
+     "postalCode": "V6T1Z4",
+     "streetAddress": "5000-2332 Main Mall",
+     "addressCountry": "CA"
+   },
+   "contactPoint": {
+   "@type": "ContactPoint",
+   "contactType": "Professor",
+   "telephone": "[604-827-5668]",
+   "email": "bhushan.gopaluni@ubc.ca"
+   }
+  }
+  </script>  
+
+</head>
+<body>
+  
+  {% include navbar.html %}
+  
+  {% if page.title == "Home" %}
+  <header class="hero is-bold is-light">
+    <div class="hero-body">
+      <div class="container">       
+        <h1 class="title is-size-2 has-text-darkblue is-size-4-mobile very-bold">
+          <i class="fas fa-cubes"></i> UBC Data Analytics and Intelligent Systems <b>Lab</b>
+        </h1>
+        <h2 class="subtitle has-text-darkerblue is-size-4 is-size-6-mobile">
+          <i>Paving the way for the next industrial revolution through <b>data</b></i>
+        </h2>
+      </div>
+    </div>
+  </header>  
+  {% endif %}
+
+  <section class="section">
+    <div class="container">
+      <div class="columns is-variable">
+        <div class="column"> 
+          {{ content }}
+        </div>
+        <div class="column is-one-fifth is-hidden-mobile">
+          {% include sidebar.html %}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+
+    // Check for click events on the navbar burger icon
+    $(".navbar-burger").click(function() {
+
+        // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+        $(".navbar-burger").toggleClass("is-active");
+        $(".navbar-menu").toggleClass("is-active");
+
+      });
+  });
+  </script>
+</body>
+</html>

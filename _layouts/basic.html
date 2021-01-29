@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="columns">
+  <div class="column">
+    <div class="content">
+      {% include breadcrumbs.html url=page.url path=page.path title=page.title %}
+      <hr>
+      {{ content }}
+    </div>
+  </div>
+</div>

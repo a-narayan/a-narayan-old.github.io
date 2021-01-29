@@ -1,0 +1,20 @@
+<ol reversed class="publist list-nomargin" type="1" style="list-style-position: inside;">
+	{% assign y_end = site.time | date: '%Y' %}
+	{% assign y_start = 2002 %}
+
+	{% for y in (y_start..y_end) reversed %}
+	{% if include.papertype %}
+		{% assign filteredpapers = site.data.publications | where:"type", include.papertype %}
+	{% else %}
+		{% assign filteredpapers = site.data.publications %}
+	{% endif %}
+
+	{% assign pubs = filteredpapers | where:"year", y %}
+	{% if pubs.size > 0 %}
+		<div class="pub-year"><p class="title is-spaced is-6"><strong>{{y}}</strong></p></div>
+	{% endif %}
+	{% for pub in pubs %}
+		{% include single_pub.html pub=pub %}
+	{% endfor %}
+	{% endfor %}
+</ol>
