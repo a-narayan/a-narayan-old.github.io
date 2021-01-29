@@ -53,7 +53,11 @@
 
 {% if pub.supplementary %}
 <a target="_blank" href="{{ site.baseurl }}/assets/preprints/{{ pub.supplementary }}"><span class="tag is-warning">[Supplementary Info]</span></a>
-{% endif %}     
+{% endif %}   
+
+{% if pub.bib %}
+<a target="_blank" href="{{ site.baseurl }}/assets/bibs/{{ pub.bib }}"><span class="tag is-info">[Bib]</span></a>
+{% endif %}   
 
 {% if pub.code %}
 <a target="_blank" href="{{ pub.code }}"><span class="tag is-success">[Code]</span></a>
@@ -69,6 +73,5 @@
 
 {% if pub.video %}
 <a target="_blank" href="{{ pub.video }}"><span class="tag is-primary">[Video]</span></a>
-{% endif %}   
-    
+{% endif %}
 </li>
