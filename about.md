@@ -1,6 +1,6 @@
 ---
 layout: basic
-description: Dr. Bhushan Gopaluni leads research activities at the UBC DAIS Lab. He is a professor in the Department of Chemical and Biological Engineering and an Associate Dean for Education and Professional Development in the Faculty of Applied Science at the University of British Columbia (UBC).
+description: Dr. Apurva Narayan leads research activities at the IDSL Lab. He is an assistant professor in the Department of Computer Science at the University of British Columbia (UBC) and an adjunct assistant professor at the University of Waterloo, Canada.
 title: About
 permalink: /about/
 ---
@@ -9,11 +9,11 @@ permalink: /about/
 {
 "@context": "http://schema.org/",
 "@type": "schema:Person",
-"name": "Prof. Bhushan Gopaluni",
-"honorificPrefix": "Prof.",
-"givenName": "Bhushan",
-"familyName": "Gopaluni",
-"telephone": "604-827-5668",
+"name": "Dr. Apurva Narayan",
+"honorificPrefix": "Dr.",
+"givenName": "Apurva",
+"familyName": "Narayan",
+"telephone": "250-807-8272",
 "worksFor": {
    "@type": "CollegeOrUniversity",
    "name": "University of British Columbia",
@@ -21,27 +21,27 @@ permalink: /about/
 },
 "address": {
    "@type": "PostalAddress",
-   "addressLocality": "Vancouver",
+   "addressLocality": "Kelowna",
    "addressRegion": "BC",
-   "postalCode": "V6T1Z4",
-   "streetAddress": "5000-2332 Main Mall"
+   "postalCode": "V1V1V7",
+   "streetAddress": "1177 Research Rd"
 },
-"image": "https://dais.chbe.ubc.ca/assets/profile/bhushan.jpg",
-"jobTitle": "Professor",
-"url": "https://dais.chbe.ubc.ca",
+"image": "https://a-narayan.github.io/assets/profile/apurva.jpg",
+"jobTitle": "Assistant Professor",
+"url": "https://a-narayan.github.io",
 "workLocation": {
    "@type": "Place",
-   "name": "KAISER 5018",
-   "url": "https://dais.chbe.ubc.ca"
+   "name": "SCI 110",
+   "url": "https://a-narayan.github.io"
 }
 }
 </script>
 
 <figure class="image is-pulled-left is-128x128">
-	<img  alt="bhushan gopaluni process control data analytics dais ubc" title="Bhushan Gopaluni" class="is-rounded" style="height: 100%; object-fit: cover;" src="{{ site.baseurl }}/assets/profile/bhushan.jpg">
+	<img  alt="apurva narayan data science machine learning ubc" title="Apurva Narayan" class="is-rounded" style="height: 100%; object-fit: cover;" src="{{ site.baseurl }}/assets/profile/apurva.jpg">
 </figure>
 
-### Biography - Bhushan Gopaluni
+### Biography - Apurva Narayan
 
 **Bhushan Gopaluni** is a Professor in the [Department of Chemical and Biological Engineering](https://www.chbe.ubc.ca/){:target="_blank"} and Associate Dean, Education and Professional Development in the [Faculty of Applied Science](https://apsc.ubc.ca/){:target="_blank"} at the University of British Columbia (UBC). 
 
