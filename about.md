@@ -43,30 +43,28 @@ permalink: /about/
 
 ### Biography - Apurva Narayan
 
-**Bhushan Gopaluni** is a Professor in the [Department of Chemical and Biological Engineering](https://www.chbe.ubc.ca/){:target="_blank"} and Associate Dean, Education and Professional Development in the [Faculty of Applied Science](https://apsc.ubc.ca/){:target="_blank"} at the University of British Columbia (UBC). 
+**Apurva Narayan** is an assistant professor in the [Department of Computer Science, Mathematics, Physics, and Statistics](https://cmps.ok.ubc.ca/){:target="_blank"} and adjunct assistant professor in the [Department of Systems Design Engineering](https://systems.uwaterloo.ca/){:target="_blank"} at the University of British Columbia (UBC) and University of Waterloo respectively. 
 
-He is also an associate faculty in the [Institute of Applied Mathematics](https://www.iam.ubc.ca/){:target="_blank"}, the [Institute for Computing, Information and Cognitive Systems](https://icics.ubc.ca/){:target="_blank"}, [Pulp and Paper Center](https://www.ppc.ubc.ca/) and the [Clean Energy Research Center](https://cerc.ubc.ca/){:target="_blank"}. 
+He is also an associate faculty in the [School of Engineering](https://engineering.ok.ubc.ca/){:target="_blank"}, the [CAIDA: UBC ICICS Centre for Artificial Intelligence Decision-making and Action](https://caida.ubc.ca/caida-ubc-icics-centre-artificial-intelligence-decision-making-and-action){:target="_blank"}, and [Waterloo Institute for Artificial Intelligence](https://uwaterloo.ca/artificial-intelligence-institute/).
 
-He is currently an associate editor for Journal of Process Control, Journal of The Franklin Institute, and guest editor for Process Control Special Series in the Canadian Journal of Chemical Engineering.
+He received a Ph.D. in Systems Design Engineering from the University of Waterloo in 2016 and a Bachelor of Electrical Engineering from the Dayalbagh Educational Institute, Agra, India in 2008 in the field of electrical engineering. 
 
-He received a Ph.D. from the University of Alberta in 2003 and a Bachelor of Technology from the Indian Institute of Technology, Madras in 1997 both in the field of chemical engineering. 
+From 2008 to 2010 he worked as an engineering consultant at Schlumberger Technology Center.
 
-From 2003 to 2005 he worked as an engineering consultant at Matrikon Inc. (now Honeywell Process Solutions) during which he had designed and commissioned multivariable controllers in British Columbia’s pulp and paper industry, and had implemented numerous controller performance monitoring projects in the Oil & Gas and other chemical industries.
+He is one of the experts on data science, machine learning, safety and security of cyber physical systems, and decision making under uncertainty. He has authored over 50 refereed articles in reputed international Journals and conferences. 
 
-He is one of the leading experts on data analytics for process industry and has authored over 110 refereed articles in reputed international Journals and conferences. His publications have been recognized through best paper awards and keynote presentations. 
-
-He is also the recipient of the prestigious [Killam Teaching Prize](https://academic.ubc.ca/awards-funding/award-winners/killam-teaching-service-winners){:target="_blank"} and the Dean’s service medal from the University of British Columbia.
+He is also the recipient of the prestigious [Young Scientist Award](http://www.sysi.org/awards.html){:target="_blank"} and the Raj Kumar Varshney Award for contributions to Systems Science and Engineering by the Systems Society of India.
 
 ### Contact
-**Bhushan Gopaluni**
+**Apurva Narayan**
 
-Professor, [Department of Chemical & Biological Engineering](https://chbe.ubc.ca/){:target="_blank"}, University of British Columbia      
+Assistant Professor, [Department of Computer Science](https://cmps.ok.ubc.ca/){:target="_blank"}, University of British Columbia      
 
-Associate Dean, Education and Professional Development, [Faculty of Applied Science](https://apsc.ubc.ca/){:target="_blank"}, University of British Columbia
+Adjunct Assistant Professor, [Systems Design Engineering](https://systems.uwaterloo.ca/){:target="_blank"}, University of Waterloo
 
-UBC Faculty Profile - [Bhushan Gopaluni <i class="fas fa-external-link-alt"></i>](https://engineering.ubc.ca/staff/bhushan-gopaluni){:target="_blank"}
+UBC Faculty Profile - [Apurva Narayan <i class="fas fa-external-link-alt"></i>](https://engineering.ok.ubc.ca/about/contact/apurva-narayan/){:target="_blank"}
 
-- Phone: 604.827.5668
-- Email: bhushan.gopaluni@ubc.ca
-- Office: KAISER 5018
-- Address: 5000-2332 Main Mall, Vancouver, BC V6T 1Z4
+- Phone: 250.807.8272
+- Email: apurva.narayan@ubc.ca & apurva.narayan@uwaterloo.ca
+- Office: SCI 110
+- Address: 1177 Research Rd, Kelowna, BC V1V 1V7
