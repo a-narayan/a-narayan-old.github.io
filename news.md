@@ -2,7 +2,7 @@
 layout: basic
 title: News
 permalink: /news/
-description: Latest news from the DAIS Lab research group at UBC. Check out our recent achievements and publications on process control, data analytics and machine learning.
+description: Latest news from the IDS Lab research group at UBC and UW. Check out our recent achievements and publications.
 ---
 
 {% assign articles = site.news | sort: 'date' | reverse %}
