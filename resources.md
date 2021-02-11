@@ -2,10 +2,10 @@
 layout: basic
 title: Resources
 permalink: /resources/
-description: Resources available from the DAIS Lab research group at UBC. We post slides, presentations and workshop materials on advanced process control, data analytics and machine learning.
+description: Resources available from the IDS Lab research group at UBC and UW. We post slides, presentations and workshop materials.
 ---
 
-Videos and presentations are available in our [Vimeo](https://vimeo.com/showcase/7521351){:target="_blank"} page. Posters and other documents are also available in our [Figshare](https://figshare.com/authors/Bhushan_Gopaluni/9643466) page.
+Videos and presentations are available in our [Vimeo](https://){:target="_blank"} page. Posters and other documents are also available in our [Figshare](https://figshare.com/) page.
 
 <div class="table-container">
 <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
