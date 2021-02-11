@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: People
-description: Meet the UBC DAIS Lab team. Our research group is working on machine learning, data analytics and process control research.
+description: Meet the IDS Lab team. Our research group is working on machine learning, data science and cyber physical systems.
 permalink: /people/
 years: ["2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002"]
 ---
@@ -10,8 +10,9 @@ years: ["2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", 
 {% assign degrees = "Research Associate|Postdoc|PhD|MASc|MEng|Undergraduate" | split: "|" %}
 
 <h1 class="title">Faculty & Staff</h1>
-- **[Bhushan Gopaluni]({{ site.baseurl }}/about/)**, Principal Investigator
-- **[Link to APSC Staff Directory](https://engineering.ubc.ca/about/staff-directory)**
+- **[Apurva Narayan]({{ site.baseurl }}/about/)**, Principal Investigator
+- **[Link to UBC Staff Directory](https://cmps.ok.ubc.ca/about/contact/)**
+- **[Link to UW Staff Directory](https://uwaterloo.ca/systems-design-engineering/)**
 
 {% for degree in degrees %}
 
