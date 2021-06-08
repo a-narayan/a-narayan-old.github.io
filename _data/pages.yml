@@ -1,16 +1,17 @@
 - name: About
 
-- name: Research
+- name: News
 
-- name: People
+- name: Team
+
+- name: Research
 
 - name: Publications
 
-- name: News
+- name: Opportunities 
 
-- name: Teaching
+- name: Courses
 
 - name: Resources
 
-- name: Videos
-  url: https://
+- name: Contact
