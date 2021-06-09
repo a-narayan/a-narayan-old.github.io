@@ -1,7 +1,7 @@
 ---
 layout: basic
-title: Teaching
-permalink: /teaching/
+title: Courses
+permalink: /courses/
 description: Dr. Apurva Narayan has taught courses on Advanced Machine Learning, Operating Systems, Software Engineering, Web and Cloud Computing, and Data Structures and Algorithms.
 ---
 
