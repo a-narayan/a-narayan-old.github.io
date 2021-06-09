@@ -13,7 +13,7 @@
     {% assign position = forloop.index | plus: 1 %}
     <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
       {% if cat contains 'profiles' %}
-        {% assign category = 'people' %}
+        {% assign category = 'team' %}
       {% elsif cat contains 'news' %}
         {% assign category = 'news' %}  
       {% else %}
