@@ -2,7 +2,7 @@
 layout: basic
 title: News
 permalink: /news/
-description: Latest news from the IDS Lab research group at UBC and UW. Check out our recent achievements and publications.
+description: Latest news from the IS Lab research group at UBC and UW. Check out our recent achievements and publications.
 ---
 
 {% assign articles = site.news | sort: 'date' | reverse %}
