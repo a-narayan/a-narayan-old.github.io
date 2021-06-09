@@ -2,7 +2,7 @@
 layout: basic
 title: Resources
 permalink: /resources/
-description: Resources available from the IDS Lab research group at UBC and UW. We post slides, presentations and workshop materials.
+description: Resources available from the IS Lab research group at UBC and UW. We post slides, presentations and workshop materials.
 ---
 
 Videos and presentations are available in our [Vimeo](https://){:target="_blank"} page. Posters and other documents are also available in our [Figshare](https://figshare.com/) page.
