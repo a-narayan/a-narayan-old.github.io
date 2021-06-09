@@ -1,6 +1,6 @@
 ---
 layout: basic
-description: Dr. Apurva Narayan leads research activities at the IDSL Lab. He is an assistant professor in the Department of Computer Science at the University of British Columbia (UBC) and an adjunct assistant professor at the University of Waterloo, Canada.
+description: Dr. Apurva Narayan leads research activities at the IS Lab. He is an assistant professor in the Department of Computer Science at the University of British Columbia (UBC) and an adjunct assistant professor at the University of Waterloo (UW).
 title: About
 permalink: /about/
 ---
@@ -43,7 +43,7 @@ permalink: /about/
 
 ### Biography - Apurva Narayan
 
-**Apurva Narayan** is an assistant professor in the [Department of Computer Science, Mathematics, Physics, and Statistics](https://cmps.ok.ubc.ca/){:target="_blank"} and adjunct assistant professor in the [Department of Systems Design Engineering](https://systems.uwaterloo.ca/){:target="_blank"} at the University of British Columbia (UBC) and University of Waterloo respectively. 
+**Apurva Narayan** is an assistant professor in the [Department of Computer Science, Mathematics, Physics, and Statistics](https://cmps.ok.ubc.ca/){:target="_blank"} and adjunct assistant professor in the [Department of Systems Design Engineering](https://systems.uwaterloo.ca/){:target="_blank"} at the University of British Columbia (UBC) and University of Waterloo (UW) respectively. 
 
 He is also an associate faculty in the [School of Engineering](https://engineering.ok.ubc.ca/){:target="_blank"}, the [CAIDA: UBC ICICS Centre for Artificial Intelligence Decision-making and Action](https://caida.ubc.ca/caida-ubc-icics-centre-artificial-intelligence-decision-making-and-action){:target="_blank"}, and [Waterloo Institute for Artificial Intelligence](https://uwaterloo.ca/artificial-intelligence-institute/).
 
