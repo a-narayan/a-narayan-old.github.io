@@ -168,7 +168,10 @@ p {
 
 .navbar-item{
   font-weight: 500 !important;
-  width: 10%
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 200px
 }
 
 .is-sans-serif{
