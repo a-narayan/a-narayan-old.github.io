@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-description: "The IS Lab conducts research at the intersection of data science, software engineering, graph theory and artificial intelligence. We develop novel algorithms and computational tools to bring a new level of reliability, trust, and decision making capabilities to the industry."
+description: "The IDSL conducts research at the intersection of data science, software engineering, graph theory and artificial intelligence. We develop novel algorithms and computational tools to bring a new level of reliability, trust, and decision making capabilities to the industry."
 papers: ["Data-Driven Dynamic Modeling and Online Monitoring for Multiphase and Multimode Batch Processes with Uneven Batch Durations", "Machine Direction Adaptive Control on a Paper Machine", "Towards Self-Driving Processes: A Deep Reinforcement Learning Approach to Control", "Univariate model-based deadband alarm design for nonlinear processes"]
 ---
 
