@@ -1,6 +1,6 @@
 ---
 layout: basic
-description: Dr. Apurva Narayan leads research activities at the IS Lab. He is an assistant professor in the Department of Computer Science at the University of British Columbia (UBC) and an adjunct assistant professor at the University of Waterloo (UW).
+description: Dr. Apurva Narayan leads research activities at the IDSL. He is an assistant professor in the Department of Computer Science at the University of British Columbia (UBC) and an adjunct assistant professor at the University of Waterloo (UW).
 title: About
 permalink: /about/
 ---
