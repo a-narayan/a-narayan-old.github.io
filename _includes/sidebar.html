@@ -1,8 +1,8 @@
 {% assign highlights = site.data.highlights | where:"display", "True" | sort: 'date' | reverse %}
 
 {% for highlight in highlights %}
-<article class="message is-small is-link">
-  <div class="message-header">
+<article class="message is-small">
+  <div class="message-header is-dark">
     <b><i class="fas fa-bullhorn"></i> Highlights - {{ highlight.date | date_to_long_string}}</b>
   </div>    
   <div class="message-body">
@@ -16,7 +16,7 @@
   <div class="message-header">
     <p><i class="fas fa-newspaper"></i> News</p>
   </div>    
-  <div class="message-body">
+  <div class="message-body is-light">
     {% assign articles = site.news | sort: 'date' | reverse %}
     {% for news in articles limit: 5 %}
     <p class="sidebar-news-date">
