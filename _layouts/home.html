@@ -29,7 +29,7 @@ layout: default
       </div>
       {% assign highlights = site.data.highlights | where:"display", "True" | sort: 'date' | reverse %}
       {% for highlight in highlights %}
-      <div class="box has-background-warning">
+      <div class="box has-background-success">
         <i class="fas fa-bullhorn"></i> 
         <span class="tag is-light">{{ highlight.date | date_to_long_string}}</span>
         <p class="news-title"><b>{{ highlight.message }}</b></p>
