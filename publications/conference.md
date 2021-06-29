@@ -6,7 +6,7 @@ permalink: /publications/conference
 
 **Publication list under construction.** 
 
-*Note that six-page full papers were reviewed by two or more international reviewers. The acceptance rate for oral presentations in most conferences is between 40% to 60%. Most papers are available either on IEEEexplorer or on International Federation of Automatic Control (IFAC) website. In my research area, conference proceedings are considered important and go through a rigorous review process.*
+*Note that six-page full papers were reviewed by two or more international reviewers. The acceptance rate for oral presentations in most conferences is between 40% to 60%. Most papers are available either on IEEEexplorer or on ACM website. In my research area, conference proceedings are considered important and go through a rigorous review process.*
 
 <div class="tabs">
   <ul class="list-nomargin">
