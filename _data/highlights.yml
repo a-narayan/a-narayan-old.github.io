@@ -1,7 +1,7 @@
 - message: "We are organizing a special session on 'Data Science for Cyber Physical Systems' @ IEEE SMC 2021. See the website for more information."
   date: "2021-02-01"
   url: "https://a-narayan.github.io"
-  display: "True"
+  display: "False"
   
 - message: "Nathan's paper on 'Almost Surely Stable Deep Dynamics' has been accepted as a NeurIPS 2020 Spotlight session. Congratulations!"
   date: "2020-09-25"
