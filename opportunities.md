@@ -10,12 +10,14 @@ description: The UBC DAIS Lab is recruiting researchers and students for researc
 
 ---
 
-Our group is recruiting year-round for postdocs, MASc, and PhD students, visiting students and undergraduate students. 
+#### Opportunities 
 
-All admitted students will receive a stipend. 
+IDSL is looking for motivated students (undergrads and grads) interested in working in the domain of Data Science, Machine Learning, Artificial Intelligence, and Safety and Security of Cyber Physical Systems. All admitted students will receive a stipend. 
 
-If you’re interested in pursuing research or graduate studies, please email Dr. Apurva Narayan a copy of your 
+If you are interested in pursuing research or graduate studies in these lines of work, please email Dr. Apurva Narayan a copy of your 
 
-(1) CV, and
+(1) CV
 
 (2) Research Statement 
+
+(3) Sample work (if applicable) 
