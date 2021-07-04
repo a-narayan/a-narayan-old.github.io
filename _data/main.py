@@ -1,0 +1,1 @@
+python3 bib2yml.py -i Biblio-Bibtex.bib -o publications.yml
