@@ -6,7 +6,7 @@ title: Opportunities
 
 permalink: /opportunities/
 
-description: The UBC DAIS Lab is recruiting researchers and students for research projects in data analytics, machine learning and process control.
+description: UBC IDSL is recruiting researchers and students for research projects in data science, machine learning, and intelligent systems.
 
 ---
 
