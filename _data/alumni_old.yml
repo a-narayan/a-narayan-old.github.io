@@ -1,0 +1,289 @@
+- name: "Ying Xiong"
+  year: "2020"
+  degree: "Postdoc"
+
+- name: "Thomas Lai"
+  year: "2020"
+  degree: "Summer Student (Visiting)"
+  position: "Undergraduate Bioengineering, McGill University"
+
+- name: "Hui Tian"
+  year: "2020"
+  degree: "PhD"
+
+- name: "Shams Elnawawi"
+  year: "2018"
+  degree: "NSERC USRA"
+  position: "Mitsubishi Ireland (Internship), now UBC BASc Thesis"
+  url: "https://github.com/shams-n"
+
+- name: "Siang Lim"
+  year: "2017"
+  degree: "NSERC USRA"
+  position: "FortisBC, now Burnaby Refinery"
+  url: "https://www.siang.ca/"
+
+- name: "Anshul Jain*"       
+  degree: "Co-Op Student"                
+  year: "2006"
+
+- name: "Varun Agarwal*"     
+  degree: "Co-Op Student"                
+  year: "2006"
+
+- name: "Prince Nimoh"      
+  degree: "Co-Op Student"                
+  year: "2008"  
+
+- name: "Ma Edo Tanujaya"   
+  degree: "Co-Op Student"                
+  year: "2008"
+
+- name: "Anand Kaushik"     
+  degree: "Internship"           
+  year: "2009"
+
+- name: "Naveen Karthik"    
+  degree: "Internship"           
+  year: "2010"
+
+- name: "Shreyas Rangan"    
+  degree: "Internship"           
+  year: "2010"
+
+- name: "Daniel Esau"       
+  degree: "Undergraduate Thesis" 
+  year: "2012"
+  position: "UBC Medicine"
+
+- name: "Norman Siu"        
+  degree: "Undergraduate Thesis" 
+  year: "2012"
+  position: "Solaris then Coanda, now Enbridge"
+
+- name: "Jalaj Jain"        
+  degree: "Internship"           
+  year: "2012"  
+  position: "Shell then Schlumberger, now McKinsey"
+  url: "https://www.linkedin.com/in/jalaj-jain/?originalSubdomain=in"
+
+- name: "Sravan Nandhakumar"
+  degree: "Internship"           
+  year: "2014"  
+
+- name: "Clarin Houle"      
+  degree: "Undergraduate Thesis" 
+  year: "2015"
+  position: "Corvus Energy" 
+
+- name: "Jiaqi Gao"         
+  degree: "Internship"           
+  year: "2015"
+  position: "Tsinghua then Yale, now Harvard"
+  url: "http://jqgao.me/index.html#awards"
+
+- name: "Yang Liu"          
+  degree: "Internship"           
+  year: "2015"
+  position: "Yale PhD"
+
+- name: "Alireza Nazari"    
+  degree: "Undergraduate Thesis" 
+  year: "2016"
+  position: "Accenture then Harvard Law"
+
+- name: "William Xi" 
+  degree: "Undergraduate Thesis"
+  year: "2018"
+  position: "MSc (UC Berkeley)"
+
+- name: "Logan Phillips" 
+  degree: "Undergraduate Thesis"
+  year: "2018"
+  position: "DuBois Chemicals"
+
+- name: "Simeng Li" 
+  degree: "Co-Op Student"
+  year: "2018"
+  position: "BASc (UBC)"
+
+- name: "Ruyi Yang" 
+  degree: "Summer Student"
+  year: "2019"
+
+- name: "Adriana Cajiao"          
+  degree: "Ph.D."
+  year: "2012"
+  position: "Response Biomedical Corp"
+
+- name: "Aditya Tulsyan*"          
+  degree: "Ph.D."
+  year: "2013"
+  position: "MIT Postdoc, now Amgen"
+
+- name: "Omid Vahidi"             
+  degree: "Ph.D."
+  year: "2013"
+  position: "Faculty (IUST, Iran)"
+
+- name: "Feras Al-Rowaie"         
+  degree: "Ph.D."
+  year: "2015"
+  position: "Faculty (Jubail Industrial College)"
+
+- name: "Fatemeh Ekram"            
+  degree: "Ph.D."
+  year: "2015"
+  position: "STEM Education Instructor, Insight Chemistry Tutors"
+
+- name: "Melissa Barazandegan"    
+  degree: "Ph.D."
+  year: "2016"
+  position: "Vancouver Coastal Health"
+
+- name: "David Zamar"             
+  degree: "Ph.D."
+  year: "2017"
+  position: "Data Scientist, UBC SPPH"
+
+- name: "Qiugang Lu"              
+  degree: "Ph.D."
+  year: "2018"
+  position: "GM Canada, then Zavala Lab postdoc (UW-Madison), then faculty (Texas Tech)"
+
+- name: "Mahsa Sadeghassadi"
+  degree: "Ph.D."
+  year: "2016"
+  position: "inCTRL Solutions"
+
+- name: "Kai Wang"                
+  degree: "Ph.D."
+  year: "2018"
+  position: "Faculty (CSU, Changsha)"
+  url: "http://faculty.csu.edu.cn/wangkai/en/index.htm"
+
+- name: "Yi Luo"                  
+  degree: "Ph.D. (Visiting)"
+  year: "2020"
+  position: "BUCT, Beijing"
+
+- name: "Shelly Jang"
+  degree: "M.A.Sc." 
+  year: "2009" 
+  position: "PhD (U. Washington)"
+
+- name: "Devin Marshman"
+  degree: "M.A.Sc." 
+  year: "2010"
+  position: "NORPAC Controls"
+
+- name: "Sayyed Soroush Nasseri"
+  degree: "M.A.Sc." 
+  year: "2012"
+  position: "PhD (UBC)"
+
+- name: "Parisa Towfigi*"
+  degree: "M.A.Sc." 
+  year: "2011"
+  position: "Siemens"
+
+- name: "Cai Long"
+  degree: "M.A.Sc." 
+  year: "2012"
+  position: "World Health Organization"
+
+- name: "Navid Ghaffari"
+  degree: "M.A.Sc." 
+  year: "2015"
+  position: "Sanofi"
+
+- name: "Kenneth McClure" 
+  degree: "M.A.S.c" 
+  year: "2013"
+  position: "Spartan Controls"
+
+- name: "Mahdi Yousefi"
+  degree: "M.A.Sc." 
+  year: "2014"
+  position: "Avestec Technologies"
+
+- name: "Ramin Khoie"
+  degree: "M.A.Sc." 
+  year: "2015"
+  url: "http://www.rkhoie.com/"
+  position: "AutomationX Industrial Solutions"
+
+- name: "Yiting Tsai"
+  degree: "M.A.Sc." 
+  year: "2015"
+  position: "PhD (UBC)"
+
+- name: "Lee Rippon"
+  degree: "M.A.Sc." 
+  year: "2016"
+  position: "PhD (UBC)"
+
+- name: "Aigerim Ongalbayeva"
+  degree: "M.A.Sc." 
+  year: "2016"
+  position: "Nazarbayev Intellectual Schools"
+
+- name: "Steven Spielberg"
+  degree: "M.A.Sc." 
+  year: "2017"
+  position: "Amazon"
+  url: "http://www.stevenspielberg.me/"
+
+- name: "David Kong"
+  degree: "M.Sc." 
+  year: "2018"
+  position: "ML Engineer, Realtor.com"
+
+- name: "Koji Kitano"
+  degree: "M.A.Sc. (Visiting)" 
+  year: "2017"
+  position: "Kyoto University"
+
+- name: "Mankaran Mehrok"
+  degree: "M.Eng." 
+  year: "2011"
+  position: "Seven Generations Energy"
+
+- name: "JiChuan Wu"
+  degree: "M.Eng." 
+  year: "2012"
+  position: "Petrochemicals, China"
+
+- name: "Yilin Fan"
+  degree: "M.Eng." 
+  year: "2017"
+  position: "Intercontinental Exchange (ICE) London"
+
+- name: "Harigopal Raghavan*"
+  degree: "Research Associate" 
+  year: "2008"
+  position: "Shell"
+
+- name: "Do Yun Kim"
+  degree: "Postdoc" 
+  year: "2009"  
+
+- name: "Lin Sun"
+  degree: "Postdoc (Visiting)" 
+  year: "2010"  
+  position: "China University of Petroleum, Beijing"
+
+- name: "Yanqin Li"
+  degree: "Research Associate (Visiting)"
+  year: "2010"  
+
+- name: "Phanindra Jampana"
+  degree: "Postdoc" 
+  year: "2010"
+  position: "Faculty (IIT, Hyderabad)"
+
+- name: "Vinay Bhavdekar"
+  degree: "Postdoc" 
+  year: "2013"
+  position: "Postdoc (UofA and UC Berkeley), then GE, then Wabtec Corp"
+  url: "https://www.linkedin.com/in/vabavdekar/"
