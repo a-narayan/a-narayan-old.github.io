@@ -36,7 +36,7 @@ sass:
 collections: 
   profiles:
     output: true
-    permalink: /people/:name/
+    permalink: /team/:name/
   news:
     output: true
     permalink: /news/:path/ 
