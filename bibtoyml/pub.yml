@@ -1,0 +1,15 @@
+# pub.yml - Converted from example.bib using bib2yml.py
+- id: 298
+  entrytype: inproceedings
+  authors:
+    - names: Lukas
+      surnames: Schmidt
+    - names: Apurva
+      surnames: Narayan
+    - names: Sebastian
+      surnames: Fischmeister
+  title: "TREM: A Tool for Mining Timed Regular Specifications from System Traces"
+  booktitle: "Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering"
+  year: "2017"
+  address: "Urbana-Champaign, USA"
+  abstract: "<p>Software specifications are useful for software vali- dation, model checking, runtime verification, debugging, monitoring, etc. In context of safety-critical real-time systems, temporal properties play an important role. However, temporal properties are rarely present due to the complexity and evolutionary nature of software systems.<br /> We propose Timed Regular Expression Mining (TREM) a hosted tool for specification mining using timed regular expressions (TREs). It is designed for easy and robust mining of dominant temporal properties. TREM uses an abstract structure of the property; the framework constructs a finite state machine to serve as an acceptor. TREM is scalable, easy to access/use, and platform independent specification mining framework. The tool is tested on industrial strength software system traces such as the QNX real-time operating system using traces with more than 1.5 Million entries. The tool demonstration video can be accessed here: <a href="http://youtu.be/cSd_aj3_LH8">youtu.be/cSd_aj3_LH8</a></p>"

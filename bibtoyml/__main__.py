@@ -24,7 +24,8 @@ SOFTWARE.
 
 #!/usr/bin/python3
 from pybtex.database.input import bibtex
-import bib2yml.libs.LatexAccents as TeXAccents
+import LatexAccents as TeXAccents
+#import bib2yml.libs.LatexAccents as TeXAccents
 import argparse
 import os
 

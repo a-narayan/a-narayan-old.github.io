@@ -1,1 +1,1 @@
-python3 bib2yml.py -i example.bib -o publications.yml
+python3 __main__ -i example.bib -o publications.yml
