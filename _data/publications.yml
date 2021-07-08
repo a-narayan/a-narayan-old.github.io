@@ -1,13 +1,10 @@
-- id: 298
-  entrytype: inproceedings
-  authors:
-    - names: Lukas
-      surnames: Schmidt
-    - names: Apurva
-      surnames: Narayan
-    - names: Sebastian
-      surnames: Fischmeister
+- type: "conference"
+  authors: "L. Schmidt, A. Narayan, S. Fischmeister"
+  year: "2017" 
   title: "TREM: A Tool for Mining Timed Regular Specifications from System Traces"
-  booktitle: "Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering"
-  year: "2017"
-  address: "Urbana-Champaign, USA"
+  journal: "In Proceedings 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017)"
+  pagenum: ""
+  notes: "Tool Paper"
+  pdf: "2017_TREM_ASE.pdf"
+  slides: ""
+  video: "http://youtu.be/cSd_aj3_LH8"
