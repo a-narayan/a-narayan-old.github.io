@@ -1,0 +1,4 @@
+Requirements: LatexAccents.py & pybibtex
+Script: ''python3 bib2yml.py -i example.bib -o publications.yml''
+
+''example.bib'' is the input and ''publications.yml'' (which is included in the #_data folder) is the output 
