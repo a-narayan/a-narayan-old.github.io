@@ -4,9 +4,9 @@ title: Research Overview
 permalink: /research/
 ---
 
-The IDSL Lab at the University of British Columbia conducts research at the intersection of *software engineering*, *data analytics* and *machine learning*.
+The DAIS Lab at the University of British Columbia conducts research at the intersection of *process control*, *data analytics* and *machine learning*.
 
-On the applied research side, we develop novel algorithms and computational tools to solve industrial problems in the domain of cyber physical systems. We also explore fundamental problems in machine learning and deep learning for theoretical insights.
+On the applied research side, we develop novel algorithms and computational tools to solve industrial process control problems. We also explore fundamental problems in control theory and machine learning for theoretical insights.
 
 ## Research Topics:
 

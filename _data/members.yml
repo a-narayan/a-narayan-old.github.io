@@ -1,6 +1,10 @@
 # - name: Pardeep Mahato
 #   email: pmahato@student.ubc.ca
+<<<<<<< HEAD
 #    project: Specification Mining, Data Analytics, and Machine Learning
+=======
+#   project: Specification Mining, Data Analytics, and Machine Learning
+>>>>>>> parent of 68baad1 (members)
 #   img: pradeep.jpg
 #   cosupervisor: 
 #   biography: >
@@ -8,3 +12,7 @@
 #   degree: MSc
 #   year_end:
 #   year_start: 2019
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 68baad1 (members)
