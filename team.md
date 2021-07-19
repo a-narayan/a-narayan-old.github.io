@@ -7,7 +7,7 @@ years: ["2021", 2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "
 ---
 
 {% assign active_members = site.profiles | where_exp:"member", "member.status != 'alumni'" %}
-{% assign degrees = "Research Associate|Postdoc|PhD|MASc or MSc|MEng|Undergraduate" | split: "|" %}
+{% assign degrees = "Research Associate|Postdoc|PhD|MASc|MSc|MEng|Undergraduate" | split: "|" %}
 
 <h1 class="title">Faculty & Staff</h1>
 - **[Apurva Narayan]({{ site.baseurl }}/about/)**, Principal Investigator
