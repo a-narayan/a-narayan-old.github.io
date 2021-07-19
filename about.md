@@ -69,6 +69,6 @@ UBC Faculty Profile - [Apurva Narayan <i class="fas fa-external-link-alt"></i>](
 - Office: SCI 110
 - Address: 1177 Research Rd, Kelowna, BC V1V 1V7
 
-<a href="https://www.linkedin.com/in/apurva-narayan-44308b17/"><img src="{{ site.baseurl }}/assets/img/linkedin.png" alt="linkedin logo"></a>
-<img src="https://img.icons8.com/material-outlined/48/000000/google-scholar.png"/>
-<a href="https://twitter.com/appu0507?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="{{ site.baseurl }}/assets/img/twitter.png" alt="twitter logo">
+<a href="https://www.linkedin.com/in/apurva-narayan-44308b17/"><img src="https://img.icons8.com/material-outlined/48/000000/linkedin--v1.png"></a>
+<a href="https://scholar.google.ca/citations?user=e5OCZ1cAAAAJ&hl=en"><img src="https://img.icons8.com/material-outlined/48/000000/google-scholar.png"></a>
+<a href="https://twitter.com/appu0507?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="https://img.icons8.com/ios-glyphs/48/000000/twitter--v1.png"></a>
