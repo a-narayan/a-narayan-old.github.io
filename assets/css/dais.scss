@@ -60,7 +60,11 @@ $weight-normal: 500;
 }
 
 .content ol{
-  margin-top: 10px !important;
+  margin-top: 0 !important;
+}
+
+.content {
+  margin-top: 10px; 
 }
 
 ol.breadcrumbs-ol {
