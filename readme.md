@@ -1,5 +1,5 @@
-# DAIS Website Guide
-UBC DAIS Lab Website: [https://dais.chbe.ubc.ca](https://dais.chbe.ubc.ca)
+# IDSL Website Guide
+UBC IDSL Website: [a-narayan.github.io](a-narayan.github.io)
 
 Please see below for a guide on updating this website.
 
