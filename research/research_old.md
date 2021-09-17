@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: Research Overview
-permalink: /research/
+permalink: /research_old/
 ---
 
 The IDSL Lab that hosts students jointly at the University of British Columbia and University of Waterloo conducts research at the intersection of *software engineering*, *data analytics*, *machine learning*, and *safety and security of cyber-physical systems*.
