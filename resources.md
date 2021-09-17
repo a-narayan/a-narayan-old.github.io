@@ -5,7 +5,7 @@ permalink: /resources/
 description: Resources available from the IDSL research group at UBC and UW. We post slides, presentations and workshop materials.
 ---
 
-Videos and presentations are available in our [Vimeo](https://){:target="_blank"} page. Posters and other documents are also available in our [Figshare](https://figshare.com/) page.
+Videos and presentations are available in our [YouTube](https://){:target="_blank"} page. 
 
 <div class="table-container">
 <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
