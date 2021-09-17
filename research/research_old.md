@@ -4,16 +4,16 @@ title: Research Overview
 permalink: /research/
 ---
 
-The DAIS Lab at the University of British Columbia conducts research at the intersection of *process control*, *data analytics* and *machine learning*.
+The IDSL Lab that hosts students jointly at the University of British Columbia and University of Waterloo conducts research at the intersection of *software engineering*, *data analytics*, *machine learning*, and *safety and security of cyber-physical systems*.
 
-On the applied research side, we develop novel algorithms and computational tools to solve industrial process control problems. We also explore fundamental problems in control theory and machine learning for theoretical insights.
+On the applied research side, we develop novel algorithms and computational tools to solve industrial problems in safety, security, and robustness of automation processes. We also explore fundamental problems in AI and machine learning for theoretical insights.
 
 ## Research Topics:
 
 We are interested in the development of smart plants and intelligent processes, which can be distinguished from traditional industrial plants by:
 
-- Large-scale dynamic models
-- [Maintenance-free controllers](/research/maintenancefreecontrollers)
+- Robustness certification of AI models
+- Data mining for complex cyber physical systems
 - Automatic detection and diagnosis of faults
 - Predictive analytics
 
@@ -21,17 +21,17 @@ We are interested in the development of smart plants and intelligent processes, 
 
 Please see our [publications list](/publications) for more information on our past projects on:
 
-- Nonlinear System Identification
+- Anomaly Detection
 
-- Fault Detection and Diagnosis in Nonlinear Stochastic Systems
+- Fault Detection and Diagnosis 
 
-- Metabolic Flux Analysis
+- Sepcification Mining
 
-- Pulp & Paper Control
+- Robustness of AI
 
-- Diabetes Modeling and Control
+- AI in Healthcare
 
-- Experiment Design for Mammalian Cell Cultures
+- AI in Manufacturing
 
 ## Domains
 A big subset of our research projects have an applied flavour with useful and immediate applications in industry. We often collaborate with industry partners and other academic researchers for problem-solving in specific domains.
@@ -41,7 +41,7 @@ A big subset of our research projects have an applied flavour with useful and im
     <div class="card">
         <div class="card-image">
             <figure class="image is-3by2">
-              <img src="{{ site.baseurl }}/assets/img/undraw_medicine_b1ol.png" alt="bioengineering process control machine learning data analytics" title="Data Analytics for Bioengineering and Medical Biology">
+              <img src="{{ site.baseurl }}/assets/img/undraw_medicine_b1ol.png" alt="bioengineering process control machine learning data analytics" title="Data Analytics for AI in Health Care">
             </figure>
             <div class="card-content is-overlay is-clipped">
               <span class="tag is-info is-light">
@@ -50,7 +50,7 @@ A big subset of our research projects have an applied flavour with useful and im
         </div>
         <footer class="card-footer">
             <a href="#medical-biology" class="card-footer-item">
-              Medical Biology
+              Healthcare
             </a>
         </footer>
     </div>
@@ -113,7 +113,7 @@ A big subset of our research projects have an applied flavour with useful and im
 
 Our current and past projects include collaborations with:
 
-### **Medical Biology**
+### **AI in Healthcare**
 
 - Pharmaceuticals (Amgen)
 - Healthcare
