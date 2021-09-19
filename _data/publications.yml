@@ -13,15 +13,12 @@
   code: ""
   thesis: ""
   poster: ""
-- id: narayan2009novel
-  entrytype: inproceedings
-  authors:
-    - names: Apurva
-      surnames: Narayan
-    - names: Chellapilla
-      surnames: Patvardhan
+- type: "conference"
+  authors: "A. Narayan and C. Patvardhan"
   title: "A novel quantum evolutionary algorithm for quadratic knapsack problem"
   booktitle: "2009 IEEE International Conference on Systems, Man and Cybernetics"
   pages: "1388–1392"
   year: "2009"
   organization: "IEEE"
+  pdf: ""
+  bib: ""
