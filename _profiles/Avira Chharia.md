@@ -1,13 +1,15 @@
 ---
 layout: biography
-email: javierpereztobia@gmail.com
-project: Robustness Certification of AI Models 
+email: achharia_be18@thapar.edu
+project: Deep Learning in Chemoinformatics 
 img: aviral.png
 degree: Undergraduate
-biography: Originally from Spain, Javier moved to Kelowna to pursue his Bachelor's degree in Physics and Mathematics at UBC Okanagan in 2018. His previous research has focused on deep learning robustness as well as in system sequence reconstruction using continuous-time Recurrent Neural Networks. He is currently working on applying deep learning algorithms to develop maintenance-free control systems. Outside of research, he enjoys skiing, climbing and mountaineering.
+biography: AVIRAL CHHARIA is currently pursuing his Bachelor’s in Mechanical Engineering with a Minor in Computer Science from Thapar Institute of Engineering and Technology. He is a MITACS Globalink Research Scholar at the University of British Columbia. He is also the recipient of the SURGE Fellowship at the Indian Institute of Technology Kanpur, and the winner of University of Queensland’s Engineering Design Hackathon 2020 on Ventilator Design. His research interests include ML, Deep Learning, Computer Vision and Bioinformatics.
+
+At UBC Intelligence Data Science Lab, his research revolves around developing in silico models for Bioinformatics problems.
 
 year_end: None
 year_start: 2021
 cosupervisor: none
-title: Javier Perez Tobia
+title: Aviral Chharia
 ---
