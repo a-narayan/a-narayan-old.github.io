@@ -8,6 +8,6 @@ biography: Ramashish Gaurav is a Master's student at the University of Waterloo 
 
 year_end: None
 year_start: 2020
-cosupervisor: none
+cosupervisor: Dr. Bryan P. Tripp
 title: Ramashish Gaurav
 ---
