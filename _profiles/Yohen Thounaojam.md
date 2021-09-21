@@ -1,6 +1,6 @@
 ---
 layout: biography
-email: maulik20@student.ubc.ca
+email: yohenthounaojam@gmail.com
 project: Natural Language Processing
 img: yohen.jpg
 degree: Undergraduate
