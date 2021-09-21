@@ -1,7 +1,48 @@
+- name: "Gopi Kishan"
+  year: "2020"
+  degree: "Undergraduate, IIT-Roorkee"
+  position: ""
+  url: ""
+  
+- name: "Bruno Santos "
+  year: "2020"
+  degree: "MDS, UBCO"
+  position: ""
+  url: ""
+
 - name: "William Setiawan"
   year: "2020"
   degree: "Undergraduate, UBCO"
   position: ""
   url: ""
   
+- name: "Karuna Lakhani "
+  year: "2019"
+  degree: "MDS, UBCO"
+  position: ""
+  url: ""
+  
+- name: "Pranav Khanna"
+  year: "2019"
+  degree: "Undergraduate, IIT-Indore"
+  position: ""
+  url: ""
+  
+- name: "Shahid Jahagirdar"
+  year: "2020"
+  degree: "MDS, UBCO"
+  position: ""
+  url: ""
+  
+- name: "Wenting Luo"
+  year: "2020"
+  degree: "Undergraduate, UBCO"
+  position: ""
+  url: ""
+ 
+- name: "Keith Nicholas"
+  year: "2019"
+  degree: "Undergraduate, UBCO"
+  position: ""
+  url: ""
   
