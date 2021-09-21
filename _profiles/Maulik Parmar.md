@@ -2,7 +2,7 @@
 layout: biography
 email: maulik20@student.ubc.ca
 project: Natural Language Processing
-img: maulik.jpg
+img: maulik.JPG
 degree: PhD
 biography: I'm a Ph.D student at University of British Columbia(UBC). I did my M.S in the field of Artificial Intelligence(formely known as SSA) from India's leading research institute Indian Institute of Science.
 
