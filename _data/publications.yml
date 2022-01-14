@@ -27,6 +27,8 @@
   pagenum: "252--260"
   year: "2007"
   organization: "Springer, Berlin, Heidelberg"
+  pdf: "patvardhan2007enhanced.pdf"
+  bib: "patvardhan2007enhanced.bib"
 - type: "conference"
   title: "Dynamic fuzzy load balancing on LAM/MPI clusters with applications in parallel master-slave implementations of an evolutionary neuro-fuzzy learning system"
   authors: "Singh, Lotika and Narayan, Apurva and Kumar, Satish"
