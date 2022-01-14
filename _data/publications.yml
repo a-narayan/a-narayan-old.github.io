@@ -22,288 +22,288 @@
   organization: "IEEE"
   pdf: ""
   bib: ""
-- type: inproceedings
-    title: A novel quantum evolutionary algorithm for quadratic knapsack problem
-    author: Narayan, Apurva and Patvardhan, Chellapilla
-    booktitle: 2009 IEEE International Conference on Systems, Man and Cybernetics
-    pages: 1388--1392
-    year: 2009
-    organization: IEEE
-- type: inproceedings
-    title: Enhanced quantum evolutionary algorithms for difficult knapsack problems
-    author: Patvardhan, C and Narayan, Apurva and Srivastav, Anand
-    booktitle: International Conference on Pattern Recognition and Machine Intelligence
-    pages: 252--260
-    year: 2007
-    organization: Springer, Berlin, Heidelberg
-- type: inproceedings
-    title: Dynamic fuzzy load balancing on LAM/MPI clusters with applications in parallel master-slave implementations of an evolutionary neuro-fuzzy learning system
-    author: Singh, Lotika and Narayan, Apurva and Kumar, Satish
-    booktitle: 2008 IEEE International Conference on Fuzzy Systems (IEEE World Congress on Computational Intelligence)
-    pages: 1782--1788
-    year: 2008
-    organization: IEEE
-- type: inproceedings
-    title: Dynamic fuzzy controller based multilayered architecture for extended battery life in mobile handheld devices
-    author: Srivastava, Tamanna and Narayan, Apurva
-    booktitle: 2009 IEEE International Conference on Systems, Man and Cybernetics
-    pages: 3035--3040
-    year: 2009
-    organization: IEEE
-- type: article
-    title: Integration of Multimedia Communication into Tele-medicine and Tele-consultation
-    author: Narayan, Apurva and Srivastava, Gursaran and Kumar, Satish
-- type: inproceedings
-    title: Neuro-fuzzy inference system (ASuPFuNIS) model for intervention time series prediction of electricity prices
-    author: Narayan, Apurva and Hipel, Keith W and Ponnambalam, K and Paul, Sandeep
-    booktitle: 2011 IEEE International Conference on Systems, Man, and Cybernetics
-    pages: 2121--2126
-    year: 2011
-    organization: IEEE
-- type: inproceedings
-    title: Spatial dependence modeling and allocation of wind/solar resources using C-Vine copulas and value-at-risk
-    author: Narayan, A. and Ponnambalam, K.
-    booktitle: 2015 AMMCS-CAIMS Congress, Waterloo, Canada
-    year: 2015
-- type: inproceedings
-    title: Moments Based Fitting of Kumaraswamy PDF for Estimating VaR in Portfolio Optimization
-    author: Narayan, A. and Ponnambalam, K.
-    booktitle: Industrial-Academic Workshop on Optimization in Finance and Risk Management
-    year: 2013
-    organization: Fields Institute, Toronto ON Canada
-- type: inproceedings
-    title: Model based extreme value analysis and its application in Great Lakes
-    author: Narayan, A. and Ponnambalam, K.
-    booktitle: 55th Annual International Conference on Great Lakes Research, IAGLR
-    year: 2012
-    organization: IAGLR
-- type: inproceedings
-    title: Extreme Value Analysis using Stochastic Differential Equations
-    author: Narayan, A. and Ponnambalam, K.
-    booktitle: Conference on Probabilistic Methodologies in Water and Wastewater Engineering, Toronto
-    year: 2011
-- type: phdthesis
-    title: A Framework For Microgrid Planning Using Multidisciplinary Design Optimization
-    author: Narayan, Apurva
-    year: 2015
-    school: University of Waterloo
-- type: inproceedings
-    title: Mining timed regular expressions from system traces
-    author: Cutulenco, Greta and Joshi, Yogi and Narayan, Apurva and Fischmeister, Sebastian
-    booktitle: Proceedings of the 5th international workshop on software mining
-    pages: 3--10
-    year: 2016
-- type: article
-    title: Risk-averse stochastic programming approach for microgrid planning under uncertainty
-    author: Narayan, Apurva and Ponnambalam, Kumaraswamy
-    journal: Renewable Energy
-    volume: 101
-    pages: 399--408
-    year: 2017
-    publisher: Pergamon
-- type: article
-    title: A stochastic programming approach for the planning and operation of a power to gas energy hub with multiple energy recovery pathways
-    author: Mukherjee, Ushnik and Maroufmashat, Azadeh and Narayan, Apurva and Elkamel, Ali and Fowler, Michael
-    journal: Energies
-    volume: 10
-    number: 7
-    pages: 868
-    year: 2017
-    publisher: Multidisciplinary Digital Publishing Institute
-- type: article
-    title: Spatial Dependence Modeling of Wind Resource under Uncertainty Using C-Vine Copulas and Its Impact on Solar-Wind Energy Co-Generation
-    author: Narayan, Apurva and Ponnambalam, Kumaraswamy and Pagsuyoin, Sheree A
-    year: 2017
-    publisher: Preprints
-- type: inproceedings
-    title: Long Short Term Memory Networks for Short-Term Electric Load Forecasting
-    author: Narayan, Apurva and Hipel, Keith W
-    year: 2017
-- type: inproceedings
-    title: Mining specifications using nested words
-    author: Narayan, Apurva and Benann, Nirmal and Fischmeister, Sebastian
-    booktitle: 2017 6th International Workshop on Software Mining (SoftwareMining)
-    pages: 9--16
-    year: 2017
-    organization: IEEE
-- type: inproceedings
-    title: Trem: A tool for mining timed regular specifications from system traces
-    author: Schmidt, Lukas and Narayan, Apurva and Fischmeister, Sebastian
-    booktitle: 2017 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE)
-    pages: 901--906
-    year: 2017
-    organization: IEEE
-- type: article
-    title: Mining timed regular specifications from system traces
-    author: Narayan, Apurva and Cutulenco, Greta and Joshi, Yogi and Fischmeister, Sebastian
-    journal: ACM Transactions on Embedded Computing Systems (TECS)
-    volume: 17
-    number: 2
-    pages: 1--21
-    year: 2018
-    publisher: ACM New York, NY, USA
-- type: inproceedings
-    title: System call logs with natural random faults: Experimental design and application
-    author: Narayan, Apurva and Kauffman, Sean and Morgan, Jack and Tchamgoue, Guy Martin and Joshi, Yogi and Hobbs, Chris and Fischmeister, Sebastian
-    booktitle: SELSE-13: the 13th workshop on silicon errors in logic, system effects, Boston, MA, USA
-    year: 2017
-- type: incollection
-    title: Multimodal data fusion and prediction of emotional dimensions using deep neural network
-    author: Bhandari, Dhruv and Paul, Sandeep and Narayan, Apurva
-    booktitle: Computational Intelligence: Theories, Applications and Future Directions-Volume II
-    pages: 215--228
-    year: 2019
-    publisher: Springer, Singapore
-- type: article
-    title: Learning graph dynamics using deep neural networks
-    author: Narayan, Apurva and Roe, Peter HO’N
-    journal: IFAC-PapersOnLine
-    volume: 51
-    number: 2
-    pages: 433--438
-    year: 2018
-    publisher: Elsevier
-- type: inproceedings
-    title: Deep learning for system trace restoration
-    author: Sucholutsky, Ilia and Narayan, Apurva and Schonlau, Matthias and Fischmeister, Sebastian
-    booktitle: 2019 International Joint Conference on Neural Networks (IJCNN)
-    pages: 1--8
-    year: 2019
-    organization: IEEE
-- type: article
-    title: Pay attention and you won’t lose it: a deep learning approach to sequence imputation
-    author: Sucholutsky, Ilia and Narayan, Apurva and Schonlau, Matthias and Fischmeister, Sebastian
-    journal: PeerJ Computer Science
-    volume: 5
-    pages: e210
-    year: 2019
-    publisher: PeerJ Inc.
-- type: inproceedings
-    title: A Neural Word Embedding Approach to System Trace Reconstruction
-    author: Lakhani, Karuna and Narayan, Apurva
-    booktitle: 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
-    pages: 285--291
-    year: 2019
-    organization: IEEE
-- type: inproceedings
-    title: Mining time for timed regular specifications
-    author: Narayan, Apurva and Fischmeister, Sebastian
-    booktitle: 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)
-    pages: 63--69
-    year: 2019
-    organization: IEEE
-- type: article
-    title: Fecal microbiota transplantation efficacy for Clostridium difficile infection: A trans-kingdom battle between donor and recipient gut microbiomes
-    author: Kazemian, Negin and Ramezankhani, Milad and Sehgal, Aarushi and Khalid, Faizan Muhammad and Kalkhoran, Amir Hossein Zeinali and Narayan, Apurva and Wong, Gane Ka-Shu and Kao, Dina and Pakpour, Sepideh
-    journal: bioRxiv
-    year: 2020
-    publisher: Cold Spring Harbor Laboratory
-- type: inproceedings
-    title: QMine: A Framework for Mining Quantitative Regular Expressions from System Traces
-    author: Mahato, Pradeep K and Narayan, Apurva
-    booktitle: 2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)
-    pages: 370--377
-    year: 2020
-    organization: IEEE
-- type: article
-    title: The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome
-    author: Kazemian, Negin and Ramezankhani, Milad and Sehgal, Aarushi and Khalid, Faizan Muhammad and Kalkhoran, Amir Hossein Zeinali and Narayan, Apurva and Wong, Gane Ka-Shu and Kao, Dina and Pakpour, Sepideh
-    journal: Scientific reports
-    volume: 10
-    number: 1
-    pages: 1--10
-    year: 2020
-    publisher: Nature Publishing Group
-- type: inproceedings
-    title: GWAD: Greedy Workflow Graph Anomaly Detection Framework for System Traces
-    author: Setiawan, Wiliam and Thounaojam, Yohen and Narayan, Apurva
-    booktitle: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-    pages: 2790--2796
-    year: 2020
-    organization: IEEE
-- type: inproceedings
-    title: Light Weight Dilated CNN for Time Series Classification and Prediction
-    author: Khanna, Pranav and Narayan, Apurva
-    booktitle: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-    pages: 2179--2183
-    year: 2020
-    organization: IEEE
-- type: inproceedings
-    title: MA2DF: A Multi-Agent Anomaly Detection Framework
-    author: Thounaojam, Yohen and Setiawan, Wiliam and Narayan, Apurva
-    booktitle: 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-    pages: 30--36
-    year: 2020
-    organization: IEEE
-- type: techreport
-    title: Light weight dilated CNN for activity classification and intent recognition
-    author: Khanna, Pranav and Kanhangad, Vivek and Narayan, Apurva
-    year: 2019
-    institution: Discipline of Electrical Engineering, IIT Indore
-- type: inproceedings
-    title: Robust Supply Chains with Gradient Boosted Trees
-    author: Mahato, Pradeep K and Narayan, Apurva
-    booktitle: 2020 IEEE Symposium Series on Computational Intelligence (SSCI)
-    pages: 2633--2639
-    year: 2020
-    organization: IEEE
-- type: article
-    title: Author Correction: The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome
-    author: Kazemian, Negin and Ramezankhani, Milad and Sehgal, Aarushi and Khalid, Faizan Muhammad and Kalkhoran, Amir Hossein Zeinali and Narayan, Apurva and Wong, Gane Ka-Shu and Kao, Dina and Pakpour, Sepideh
-    journal: Scientific Reports
-    volume: 11
-    number: 1
-    pages: 1--1
-    year: 2021
-    publisher: Nature Publishing Group
-- type: article
-    title: Deep neural networks for multimodal data fusion and affect recognition
-    author: Bhandari, Dhruv and Paul, Sandeep and Narayan, Apurva
-    journal: International Journal of Artificial Intelligence and Soft Computing
-    volume: 7
-    number: 2
-    pages: 130--145
-    year: 2020
-    publisher: Inderscience Publishers (IEL)
-- type: article
-    title: Making costly manufacturing smart with transfer learning under limited data: A case study on composites autoclave processing
-    author: Ramezankhani, Milad and Crawford, Bryn and Narayan, Apurva and Voggenreiter, Heinz and Seethaler, Rudolf and Milani, Abbas S
-    journal: Journal of Manufacturing Systems
-    volume: 59
-    pages: 345--354
-    year: 2021
-    publisher: Elsevier
-- type: inproceedings
-    title: Probabilistic Robustness Quantification of Neural Networks
-    author: Kishan, Gopi and Narayan, Apurva
-    booktitle: Proceedings of the AAAI Conference on Artificial Intelligence
-    volume: 35
-    number: 18
-    pages: 15966--15967
-    year: 2021
-- type: inproceedings
-    title: Driving Scene Understanding: How much temporal context and spatial resolution is necessary?
-    author: Gaurav, Ramashish and Tripp, Bryan and Narayan, Apurva
-    booktitle: The 34th Canadian Conference on Artificial Intelligence
-    year: 2021
-- type: inproceedings
-    title: An active transfer learning (atl) framework for smart manufacturing with limited data: Case study on material transfer in composites processing
-    author: Ramezankhani, Milad and Narayan, Apurva and Seethaler, Rudolf and Milani, Abbas S
-    booktitle: 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)
-    pages: 277--282
-    year: 2021
-    organization: IEEE
-- type: inproceedings
-    title: A novel fuzzy approach towards in silico B-cell epitope identification inducing antigen-specific immune response for Vaccine Design
-    author: Chharia, Aviral and Narayan, Apurva
-    booktitle: 2021 IEEE 21st International Conference on Bioinformatics and Bioengineering (BIBE)
-    pages: 1--6
-    year: 2021
-    organization: IEEE
-- type: inproceedings
-    title: Is Timing Critical to Trace Reconstruction?
-    author: Tobia, Javier Perez and Narayan, Apurva
-    booktitle: 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
-    pages: 2700--2705
-    year: 2021
-    organization: IEEE
+- type: "inproceedings"
+  title: "A novel quantum evolutionary algorithm for quadratic knapsack problem"
+  author: "Narayan, Apurva and Patvardhan, Chellapilla"
+  booktitle: "2009 IEEE International Conference on Systems, Man and Cybernetics"
+  pages: "1388--1392"
+  year: "2009"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Enhanced quantum evolutionary algorithms for difficult knapsack problems"
+  author: "Patvardhan, C and Narayan, Apurva and Srivastav, Anand"
+  booktitle: "International Conference on Pattern Recognition and Machine Intelligence"
+  pages: "252--260"
+  year: "2007"
+  organization: "Springer, Berlin, Heidelberg"
+- type: "inproceedings"
+  title: "Dynamic fuzzy load balancing on LAM/MPI clusters with applications in parallel master-slave implementations of an evolutionary neuro-fuzzy learning system"
+  author: "Singh, Lotika and Narayan, Apurva and Kumar, Satish"
+  booktitle: "2008 IEEE International Conference on Fuzzy Systems (IEEE World Congress on Computational Intelligence)"
+  pages: "1782--1788"
+  year: "2008"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Dynamic fuzzy controller based multilayered architecture for extended battery life in mobile handheld devices"
+  author: "Srivastava, Tamanna and Narayan, Apurva"
+  booktitle: "2009 IEEE International Conference on Systems, Man and Cybernetics"
+  pages: "3035--3040"
+  year: "2009"
+  organization: "IEEE"
+- type: "article"
+  title: "Integration of Multimedia Communication into Tele-medicine and Tele-consultation"
+  author: "Narayan, Apurva and Srivastava, Gursaran and Kumar, Satish"
+- type: "inproceedings"
+  title: "Neuro-fuzzy inference system (ASuPFuNIS) model for intervention time series prediction of electricity prices"
+  author: "Narayan, Apurva and Hipel, Keith W and Ponnambalam, K and Paul, Sandeep"
+  booktitle: "2011 IEEE International Conference on Systems, Man, and Cybernetics"
+  pages: "2121--2126"
+  year: "2011"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Spatial dependence modeling and allocation of wind/solar resources using C-Vine copulas and value-at-risk"
+  author: "Narayan, A. and Ponnambalam, K."
+  booktitle: "2015 AMMCS-CAIMS Congress, Waterloo, Canada"
+  year: "2015"
+- type: "inproceedings"
+  title: "Moments Based Fitting of Kumaraswamy PDF for Estimating VaR in Portfolio Optimization"
+  author: "Narayan, A. and Ponnambalam, K."
+  booktitle: "Industrial-Academic Workshop on Optimization in Finance and Risk Management"
+  year: "2013"
+  organization: "Fields Institute, Toronto ON Canada"
+- type: "inproceedings"
+  title: "Model based extreme value analysis and its application in Great Lakes"
+  author: "Narayan, A. and Ponnambalam, K."
+  booktitle: "55th Annual International Conference on Great Lakes Research, IAGLR"
+  year: "2012"
+  organization: "IAGLR"
+- type: "inproceedings"
+  title: "Extreme Value Analysis using Stochastic Differential Equations"
+  author: "Narayan, A. and Ponnambalam, K."
+  booktitle: "Conference on Probabilistic Methodologies in Water and Wastewater Engineering, Toronto"
+  year: "2011"
+- type: "phdthesis"
+  title: "A Framework For Microgrid Planning Using Multidisciplinary Design Optimization"
+  author: "Narayan, Apurva"
+  year: "2015"
+  school: "University of Waterloo"
+- type: "inproceedings"
+  title: "Mining timed regular expressions from system traces"
+  author: "Cutulenco, Greta and Joshi, Yogi and Narayan, Apurva and Fischmeister, Sebastian"
+  booktitle: "Proceedings of the 5th international workshop on software mining"
+  pages: "3--10"
+  year: "2016"
+- type: "article"
+  title: "Risk-averse stochastic programming approach for microgrid planning under uncertainty"
+  author: "Narayan, Apurva and Ponnambalam, Kumaraswamy"
+  journal: "Renewable Energy"
+  volume: "101"
+  pages: "399--408"
+  year: "2017"
+  publisher: "Pergamon"
+- type: "article"
+  title: "A stochastic programming approach for the planning and operation of a power to gas energy hub with multiple energy recovery pathways"
+  author: "Mukherjee, Ushnik and Maroufmashat, Azadeh and Narayan, Apurva and Elkamel, Ali and Fowler, Michael"
+  journal: "Energies"
+  volume: "10"
+  number: "7"
+  pages: "868"
+  year: "2017"
+  publisher: "Multidisciplinary Digital Publishing Institute"
+- type: "article"
+  title: "Spatial Dependence Modeling of Wind Resource under Uncertainty Using C-Vine Copulas and Its Impact on Solar-Wind Energy Co-Generation"
+  author: "Narayan, Apurva and Ponnambalam, Kumaraswamy and Pagsuyoin, Sheree A"
+  year: "2017"
+  publisher: "Preprints"
+- type: "inproceedings"
+  title: "Long Short Term Memory Networks for Short-Term Electric Load Forecasting"
+  author: "Narayan, Apurva and Hipel, Keith W"
+  year: "2017"
+- type: "inproceedings"
+  title: "Mining specifications using nested words"
+  author: "Narayan, Apurva and Benann, Nirmal and Fischmeister, Sebastian"
+  booktitle: "2017 6th International Workshop on Software Mining (SoftwareMining)"
+  pages: "9--16"
+  year: "2017"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Trem: A tool for mining timed regular specifications from system traces"
+  author: "Schmidt, Lukas and Narayan, Apurva and Fischmeister, Sebastian"
+  booktitle: "2017 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+  pages: "901--906"
+  year: "2017"
+  organization: "IEEE"
+- type: "article"
+  title: "Mining timed regular specifications from system traces"
+  author: "Narayan, Apurva and Cutulenco, Greta and Joshi, Yogi and Fischmeister, Sebastian"
+  journal: "ACM Transactions on Embedded Computing Systems (TECS)"
+  volume: "17"
+  number: "2"
+  pages: "1--21"
+  year: "2018"
+  publisher: "ACM New York, NY, USA"
+- type: "inproceedings"
+  title: "System call logs with natural random faults: Experimental design and application"
+  author: "Narayan, Apurva and Kauffman, Sean and Morgan, Jack and Tchamgoue, Guy Martin and Joshi, Yogi and Hobbs, Chris and Fischmeister, Sebastian"
+  booktitle: "SELSE-13: the 13th workshop on silicon errors in logic, system effects, Boston, MA, USA"
+  year: "2017"
+- type: "incollection"
+  title: "Multimodal data fusion and prediction of emotional dimensions using deep neural network"
+  author: "Bhandari, Dhruv and Paul, Sandeep and Narayan, Apurva"
+  booktitle: "Computational Intelligence: Theories, Applications and Future Directions-Volume II"
+  pages: "215--228"
+  year: "2019"
+  publisher: "Springer, Singapore"
+- type: "article"
+  title: "Learning graph dynamics using deep neural networks"
+  author: "Narayan, Apurva and Roe, Peter HO’N"
+  journal: "IFAC-PapersOnLine"
+  volume: "51"
+  number: "2"
+  pages: "433--438"
+  year: "2018"
+  publisher: "Elsevier"
+- type: "inproceedings"
+  title: "Deep learning for system trace restoration"
+  author: "Sucholutsky, Ilia and Narayan, Apurva and Schonlau, Matthias and Fischmeister, Sebastian"
+  booktitle: "2019 International Joint Conference on Neural Networks (IJCNN)"
+  pages: "1--8"
+  year: "2019"
+  organization: "IEEE"
+- type: "article"
+  title: "Pay attention and you won’t lose it: a deep learning approach to sequence imputation"
+  author: "Sucholutsky, Ilia and Narayan, Apurva and Schonlau, Matthias and Fischmeister, Sebastian"
+  journal: "PeerJ Computer Science"
+  volume: "5"
+  pages: "e210"
+  year: "2019"
+  publisher: "PeerJ Inc."
+- type: "inproceedings"
+  title: "A Neural Word Embedding Approach to System Trace Reconstruction"
+  author: "Lakhani, Karuna and Narayan, Apurva"
+  booktitle: "2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)"
+  pages: "285--291"
+  year: "2019"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Mining time for timed regular specifications"
+  author: "Narayan, Apurva and Fischmeister, Sebastian"
+  booktitle: "2019 IEEE International Conference on Systems, Man and Cybernetics (SMC)"
+  pages: "63--69"
+  year: "2019"
+  organization: "IEEE"
+- type: "article"
+  title: "Fecal microbiota transplantation efficacy for Clostridium difficile infection: A trans-kingdom battle between donor and recipient gut microbiomes"
+  author: "Kazemian, Negin and Ramezankhani, Milad and Sehgal, Aarushi and Khalid, Faizan Muhammad and Kalkhoran, Amir Hossein Zeinali and Narayan, Apurva and Wong, Gane Ka-Shu and Kao, Dina and Pakpour, Sepideh"
+  journal: "bioRxiv"
+  year: "2020"
+  publisher: "Cold Spring Harbor Laboratory"
+- type: "inproceedings"
+  title: "QMine: A Framework for Mining Quantitative Regular Expressions from System Traces"
+  author: "Mahato, Pradeep K and Narayan, Apurva"
+  booktitle: "2020 IEEE 20th International Conference on Software Quality, Reliability and Security Companion (QRS-C)"
+  pages: "370--377"
+  year: "2020"
+  organization: "IEEE"
+- type: "article"
+  title: "The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome"
+  author: "Kazemian, Negin and Ramezankhani, Milad and Sehgal, Aarushi and Khalid, Faizan Muhammad and Kalkhoran, Amir Hossein Zeinali and Narayan, Apurva and Wong, Gane Ka-Shu and Kao, Dina and Pakpour, Sepideh"
+  journal: "Scientific reports"
+  volume: "10"
+  number: "1"
+  pages: "1--10"
+  year: "2020"
+  publisher: "Nature Publishing Group"
+- type: "inproceedings"
+  title: "GWAD: Greedy Workflow Graph Anomaly Detection Framework for System Traces"
+  author: "Setiawan, Wiliam and Thounaojam, Yohen and Narayan, Apurva"
+  booktitle: "2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+  pages: "2790--2796"
+  year: "2020"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Light Weight Dilated CNN for Time Series Classification and Prediction"
+  author: "Khanna, Pranav and Narayan, Apurva"
+  booktitle: "2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+  pages: "2179--2183"
+  year: "2020"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "MA2DF: A Multi-Agent Anomaly Detection Framework"
+  author: "Thounaojam, Yohen and Setiawan, Wiliam and Narayan, Apurva"
+  booktitle: "2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+  pages: "30--36"
+  year: "2020"
+  organization: "IEEE"
+- type: "techreport"
+  title: "Light weight dilated CNN for activity classification and intent recognition"
+  author: "Khanna, Pranav and Kanhangad, Vivek and Narayan, Apurva"
+  year: "2019"
+  institution: "Discipline of Electrical Engineering, IIT Indore"
+- type: "inproceedings"
+  title: "Robust Supply Chains with Gradient Boosted Trees"
+  author: "Mahato, Pradeep K and Narayan, Apurva"
+  booktitle: "2020 IEEE Symposium Series on Computational Intelligence (SSCI)"
+  pages: "2633--2639"
+  year: "2020"
+  organization: "IEEE"
+- type: "article"
+  title: "Author Correction: The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome"
+  author: "Kazemian, Negin and Ramezankhani, Milad and Sehgal, Aarushi and Khalid, Faizan Muhammad and Kalkhoran, Amir Hossein Zeinali and Narayan, Apurva and Wong, Gane Ka-Shu and Kao, Dina and Pakpour, Sepideh"
+  journal: "Scientific Reports"
+  volume: "11"
+  number: "1"
+  pages: "1--1"
+  year: "2021"
+  publisher: "Nature Publishing Group"
+- type: "article"
+  title: "Deep neural networks for multimodal data fusion and affect recognition"
+  author: "Bhandari, Dhruv and Paul, Sandeep and Narayan, Apurva"
+  journal: "International Journal of Artificial Intelligence and Soft Computing"
+  volume: "7"
+  number: "2"
+  pages: "130--145"
+  year: "2020"
+  publisher: "Inderscience Publishers (IEL)"
+- type: "article"
+  title: "Making costly manufacturing smart with transfer learning under limited data: A case study on composites autoclave processing"
+  author: "Ramezankhani, Milad and Crawford, Bryn and Narayan, Apurva and Voggenreiter, Heinz and Seethaler, Rudolf and Milani, Abbas S"
+  journal: "Journal of Manufacturing Systems"
+  volume: "59"
+  pages: "345--354"
+  year: "2021"
+  publisher: "Elsevier"
+- type: "inproceedings"
+  title: "Probabilistic Robustness Quantification of Neural Networks"
+  author: "Kishan, Gopi and Narayan, Apurva"
+  booktitle: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  volume: "35"
+  number: "18"
+  pages: "15966--15967"
+  year: "2021"
+- type: "inproceedings"
+  title: "Driving Scene Understanding: How much temporal context and spatial resolution is necessary?"
+  author: "Gaurav, Ramashish and Tripp, Bryan and Narayan, Apurva"
+  booktitle: "The 34th Canadian Conference on Artificial Intelligence"
+  year: "2021"
+- type: "inproceedings"
+  title: "An active transfer learning (atl) framework for smart manufacturing with limited data: Case study on material transfer in composites processing"
+  author: "Ramezankhani, Milad and Narayan, Apurva and Seethaler, Rudolf and Milani, Abbas S"
+  booktitle: "2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)"
+  pages: "277--282"
+  year: "2021"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "A novel fuzzy approach towards in silico B-cell epitope identification inducing antigen-specific immune response for Vaccine Design"
+  author: "Chharia, Aviral and Narayan, Apurva"
+  booktitle: "2021 IEEE 21st International Conference on Bioinformatics and Bioengineering (BIBE)"
+  pages: "1--6"
+  year: "2021"
+  organization: "IEEE"
+- type: "inproceedings"
+  title: "Is Timing Critical to Trace Reconstruction?"
+  author: "Tobia, Javier Perez and Narayan, Apurva"
+  booktitle: "2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC)"
+  pages: "2700--2705"
+  year: "2021"
+  organization: "IEEE"
