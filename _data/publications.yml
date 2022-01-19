@@ -349,6 +349,7 @@
   organization: "IEEE"
   pdf: "chharia2021novel.pdf"
   bib: "chharia2021novel.bib"
+  slides: "ppt_chharia2021novel.pdf"
 - type: "conference"
   title: "Is Timing Critical to Trace Reconstruction?"
   authors: "Tobia, Javier Perez and Narayan, Apurva"
