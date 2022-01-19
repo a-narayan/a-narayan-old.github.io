@@ -25,7 +25,7 @@
   year: "2017" 
   title: "TREM: A Tool for Mining Timed Regular Specifications from System Traces"
   journal: "In Proceedings 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017)"
-  pagenum: ""
+  pagenum: ""f
   notes: "Tool Paper"
   pdf: "2017_TREM_ASE.pdf"
   slides: ""
@@ -359,3 +359,4 @@
   organization: "IEEE"
   pdf: "tobia2021timing.pdf"
   bib: "tobia2021timing.bib"
+  slides: "tobia2021timing_ppt.pdf"
