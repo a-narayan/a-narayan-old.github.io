@@ -10,4 +10,5 @@ year_end: None
 year_start: 2020
 cosupervisor: Dr. Bryan P. Tripp
 title: Ramashish Gaurav
+status: alumni
 ---
