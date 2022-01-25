@@ -38,6 +38,7 @@
   organization: "IEEE"
   pdf: " "
   bib: " "
+  slides: "mahato2020mints_ppt.pdf"
   notes: "Best Paper Award Runner Up (In Top 10 in 300)"
 - type: "paper"
   title: "A stochastic programming approach for the planning and operation of a power to gas energy hub with multiple energy recovery pathways"
