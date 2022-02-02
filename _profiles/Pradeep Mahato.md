@@ -10,4 +10,5 @@ year_end: None
 year_start: 2019
 cosupervisor: none
 title: Pradeep Mahato
+status: alumni
 ---
