@@ -7,6 +7,15 @@ layout: default
     <div class="content">
       {% include breadcrumbs.html url=page.url path=page.path title=page.title %}
       <hr>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CLMD43LWG3"></script>
+       <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-CLMD43LWG3');
+      </script>
       {{ content }}
     </div>
   </div>
