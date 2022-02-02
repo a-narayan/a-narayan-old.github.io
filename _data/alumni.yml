@@ -1,3 +1,21 @@
+- name: "Debagnsha Sarkar"
+  year: "2021"
+  degree: "MSc"
+  position: "PhD Student, UBCO"
+  url: ""
+  
+- name: "Pradeep Mahato"
+  year: "2021"
+  degree: "MSc"
+  position: "Software Developer, Loblaws"
+  url: ""
+  
+- name: "Ramashish Gaurav"
+  year: "2021"
+  degree: "MASc"
+  position: "Phd Student, Virginia Tech University"
+  url: "https://r-gaurav.github.io/whoami.html"
+  
 - name: "Gopi Kishan"
   year: "2020"
   degree: "Undergraduate, IIT-Roorkee"
